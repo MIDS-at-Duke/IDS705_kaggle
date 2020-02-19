@@ -1,1 +1,1 @@
-# Repository for IDS707 Kaggle
+# Repository for IDS705 Kaggle
